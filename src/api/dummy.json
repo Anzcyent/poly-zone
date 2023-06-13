@@ -1,0 +1,81 @@
+{
+  "menu": {
+    "pistols": [
+      {
+        "name": "Glock",
+        "description": "1 magazine",
+        "price": "25"
+      },
+      {
+        "name": "Canik",
+        "description": "10 rounds",
+        "price": "15"
+      },
+      {
+        "name": "Smith & Wesson",
+        "description": "1 magazine",
+        "price": "30"
+      },
+      {
+        "name": "SIG Sauer",
+        "description": "1 magazine",
+        "price": "35"
+      },
+      {
+        "name": "Beretta",
+        "description": "1 magazine",
+        "price": "40"
+      }
+    ],
+    "rifles": [
+      {
+        "name": "AR-15",
+        "description": "1 magazine",
+        "price": "50"
+      },
+      {
+        "name": "AK-47",
+        "description": "1 magazine",
+        "price": "70"
+      },
+      {
+        "name": "Remington 700",
+        "description": "1 magazine",
+        "price": "80"
+      },
+      {
+        "name": "FN SCAR",
+        "description": "1 magazine",
+        "price": "90"
+      },
+      {
+        "name": "Ruger Precision Rifle",
+        "description": "1 magazine",
+        "price": "100"
+      }
+    ]
+  },
+
+  "awards": [
+    {
+      "title": "Outstanding Performance Award",
+      "subtitle": "Recognizing excellence in achievement",
+      "image": "assets/awards/02.png"
+    },
+    {
+      "title": "Innovation Excellence Award",
+      "subtitle": "Celebrating groundbreaking ideas and creativity",
+      "image": "assets/awards/01.png"
+    },
+    {
+      "title": "Customer Satisfaction Award",
+      "subtitle": "Acknowledging exceptional service and customer support",
+      "image": "assets/awards/05.png"
+    },
+    {
+      "title": "Industry Leadership Award",
+      "subtitle": "Honoring visionary leadership and impact",
+      "image": "assets/awards/03.png"
+    }
+  ]
+}

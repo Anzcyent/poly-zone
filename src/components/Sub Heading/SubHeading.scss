@@ -1,0 +1,17 @@
+.app__subheading {
+    margin-top: 1rem;
+    
+    img {
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .app__subheading {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
